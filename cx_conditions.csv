@@ -1,0 +1,1733 @@
+field,value,score
+position,Application,5
+position,Application security,5
+position,Appsec,5
+position,"IT, application",5
+position,"Security, application",5
+position,chief information security,5
+position,chief infosec,5
+position,information seucrity officer,5
+position,security officer,5
+position,head of information,5
+position,CISO,5
+position,CSO,5
+position,director of security,5
+position,"director, security",5
+position,director application,5
+position,director of application,5
+position,security manager,5
+position,manager of security,5
+position,RSSI,5
+position,VP security,5
+position,application lead,5
+position,vice president security,5
+position,vice president of application security,5
+position,vp of application security,5
+position,VP security,5
+position,Security Architect,5
+email_domain,quannsecurity.com,15
+email_domain,quannsecurity.com,15
+email_domain,quann.com,15
+email_domain,kpmg.com.sg,15
+email_domain,defence.gov.sg,15
+email_domain,pldt.com.ph,15
+email_domain,sg.pwc.com,15
+email_domain,pmo.gov.il,15
+email_domain,darkmatter.ae,15
+email_domain,tdbm.mn,15
+email_domain,prowareness.nl,15
+email_domain,tatamotors.com,15
+email_domain,sonimtech.com,15
+email_domain,lucideustech.com,15
+email_domain,ctc-g.co.jp,15
+email_domain,xecureit.id,15
+email_domain,binqsoft.com,15
+email_domain,bseindia.com,15
+email_domain,bnz.co.nz,15
+email_domain,sil.co.in,15
+email_domain,esflabs.com,15
+email_domain,npci.org.in,15
+email_domain,manulife.com,15
+email_domain,checkmarx.com,15
+email_domain,shearwater.com.au,15
+email_domain,aujas.com,15
+email_domain,aujas.com,15
+email_domain,sg.pwc.com,15
+email_domain,sg.pwc.com,15
+email_domain,sg.pwc.com,15
+email_domain,sg.pwc.com,15
+email_domain,sg.pwc.com,15
+email_domain,deloitte.com,15
+email_domain,deloitte.com,15
+email_domain,sapient.com,15
+email_domain,sapient.com,15
+email_domain,kmart.com.au,15
+email_domain,itsecasia.com,15
+email_domain,realestate.com.au,15
+email_domain,bizcarta.io,15
+email_domain,nic.in,15
+email_domain,timesinternet.in,15
+email_domain,indiatimes.co.in,15
+email_domain,news.com.au,15
+email_domain,deloitte.com,15
+email_domain,techarch.com.sa,15
+email_domain,cuscal.com.au,15
+email_domain,cuscal.com.au,15
+email_domain,au.fujitsu.com,15
+email_domain,au.fujitsu.com,15
+email_domain,sonichealthcare.com.au,15
+email_domain,sonichealthcare.com.au,15
+email_domain,tcs.com,15
+email_domain,edelcap.com,15
+email_domain,adobe.com,15
+email_domain,adobe.com,15
+email_domain,wipro.com,15
+email_domain,wipro.com,15
+email_domain,wipro.com,15
+email_domain,wipro.com,15
+email_domain,wipro.com,15
+email_domain,cognizant.com,15
+email_domain,cognizant.com,15
+email_domain,cognizant.com,15
+email_domain,cognizant.com,15
+email_domain,cognizant.com,15
+email_domain,cognizant.com,15
+email_domain,cognizant.com,15
+email_domain,apigee.com,15
+email_domain,bridgepoint.com.au,15
+email_domain,optus.com.au,15
+email_domain,e-cop.net,15
+email_domain,quannsecurity.com,15
+email_domain,happiestminds.com,15
+email_domain,247-inc.com,15
+email_domain,devfactory.com,15
+email_domain,cxrus.com,15
+email_domain,auspost.com.au,15
+email_domain,hostanalytics.com,15
+email_domain,wipro.com,15
+email_domain,in.pwc.com,15
+email_domain,in.pwc.com,15
+email_domain,insdc01.pwc.com,15
+email_domain,acisonline.net,15
+email_domain,dmxtechnologies.com,15
+email_domain,quantiqint.com,15
+email_domain,pulsesecure.com,15
+email_domain,edenred.com,15
+email_domain,mahindracomviva.com,15
+email_domain,mahindracomviva.com,15
+email_domain,persistent.co.in,15
+email_domain,in.ey.com,15
+email_domain,grapecity.mn,15
+email_domain,pb.com,15
+email_domain,handshake.hk,15
+email_domain,cisecurity.hk,15
+email_domain,tcs.com,15
+email_domain,tcs.com,15
+email_domain,itcinfotech.com,15
+email_domain,accenture.com,15
+email_domain,login2it.com,15
+email_domain,accenture.com,15
+email_domain,accenture.com,15
+email_domain,accenture.com,15
+email_domain,accenture.com,15
+email_domain,accenture.com,15
+email_domain,accenture.com,15
+email_domain,accenture.com,15
+email_domain,atlassian.com,15
+email_domain,clearbridge-infosec.com,15
+email_domain,itas.vn,15
+email_domain,infosys.com,15
+email_domain,infosys.com,15
+email_domain,infosys.com,15
+email_domain,infosys.com,15
+email_domain,nzpost.co.nz,15
+email_domain,ace-pacific.com.sg,15
+email_domain,ext.icicibank.com,15
+email_domain,dmxtechnologies.com,15
+email_domain,abs.gov.au,15
+email_domain,abs.gov.au,15
+email_domain,abs.gov.au,15
+email_domain,accelyakale.com,15
+email_domain,snapdeal.com,15
+email_domain,snapdeal.com,15
+email_domain,anz.com,15
+email_domain,deloitte.com.hk,15
+email_domain,paddypower.com,15
+email_domain,sportsbet.com.au,15
+email_domain,ewalker.com.hk,15
+email_domain,goindigo.in,15
+email_domain,rrd.com,15
+email_domain,rrd.com,15
+email_domain,insideview.com,15
+email_domain,steelwedge.com,15
+email_domain,steelwedge.com,15
+email_domain,photoninfotech.net,15
+email_domain,photoninfotech.net,15
+email_domain,originenergy.com.au,15
+email_domain,kpmg.com,15
+email_domain,kpmg.com,15
+email_domain,csc.com,15
+email_domain,asbbank.co.nz,15
+email_domain,asb.co.nz,15
+email_domain,asb.co.nz,15
+email_domain,au.ey.com,15
+email_domain,kpmg.com.sg,15
+email_domain,kpmg.com.sg,15
+email_domain,tavant.com,15
+email_domain,netdefence.com,15
+email_domain,hdfcbank.com,15
+email_domain,wesm.ph,15
+email_domain,wesm.ph,15
+email_domain,mgenesis.com.ph,15
+email_domain,emc.com,15
+email_domain,tforcetech.com,15
+email_domain,edgeverve.com,15
+email_domain,uxcconsulting.com.au,15
+email_domain,kpmg.co.th,15
+email_domain,ca-cib.com,15
+email_domain,controlcase.com,15
+email_domain,controlcase.com,15
+email_domain,servicemax.com,15
+email_domain,team.telstra.com,15
+email_domain,ace-pac.com,15
+email_domain,ace-pac.com,15
+email_domain,ida.gov.sg,15
+email_domain,ida.gov.sg,15
+email_domain,in.bosch.com,15
+email_domain,cgi.com,15
+email_domain,cgi.com,15
+email_domain,in.musafir.com,15
+email_domain,hcentive.com,15
+email_domain,secureyes.net,15
+email_domain,fastlinkcomputer.com.ph,15
+email_domain,bankbazaar.com,15
+email_domain,mobikwik.com,15
+email_domain,offensivebits.ae,15
+email_domain,deloitte.com,15
+email_domain,systexgroup.com,15
+email_domain,maricoindia.net,15
+email_domain,techmahindra.com,15
+email_domain,techmahindra.com,15
+email_domain,techmahindra.com,15
+email_domain,techmahindra.com,15
+email_domain,techmahindra.com,15
+email_domain,hsbc.co.in,15
+email_domain,cert-in.org.in,15
+email_domain,cert-in.org.in,15
+email_domain,presto.co.in,15
+email_domain,miel.in,15
+email_domain,melbourneit.com.au,15
+email_domain,melbourneit.com.au,15
+email_domain,le-global.com,15
+email_domain,le-global.com,15
+email_domain,kodiaknetworks.com,15
+email_domain,thegoodguys.com.au,15
+email_domain,vsec.com.vn,15
+email_domain,infosec.co.th,15
+email_domain,janison.com,15
+email_domain,vncs.vn,15
+email_domain,campaignmonitor.com,15
+email_domain,mof.gov.ae,15
+email_domain,encodegroup.com,15
+email_domain,ctc-g.com.sg,15
+email_domain,ctc-g.com.sg,15
+email_domain,sg.pwc.com,15
+email_domain,sg.pwc.com,15
+email_domain,hcl.com,15
+email_domain,hcl.com,15
+email_domain,defence.gov.sg,15
+email_domain,quann.com,15
+email_domain,quannsecurity.com,15
+email_domain,quannsecurity.com,15
+email_domain,kpmg.com.sg,15
+email_domain,sg.pwc.com,15
+email_domain,pmo.gov.il,15
+email_domain,dell.com,15
+email_domain,ust-global.com,15
+email_domain,xavient.com,15
+email_domain,defence.gov.sg,15
+email_domain,edelweissfin.com,15
+email_domain,sbi.co.in,15
+email_domain,gmail.com,15
+email_domain,capgemini.com,15
+email_domain,securepay.com.au,15
+email_domain,in.unisys.com,15
+email_domain,cisco.com,15
+email_domain,one.verizon.com,15
+company,Activision Blizzard,10
+company,Acuity Brands,10
+company,Advance Auto Parts,10
+company,AES,10
+company,AGCO,10
+company,AGL Resources,10
+company,Allergan,10
+company,Alliance Resource Partners,10
+company,American Tire Distributors,10
+company,Amgen,10
+company,Amkor Technology,10
+company,AmTrust Financial,10
+company,Apollo Group,10
+company,Applied Materials,10
+company,Arizona Public Service Company,10
+company,Asbury Automotive Group,10
+company,AutoNation,10
+company,AutoZone,10
+company,Axiall,10
+company,Barnes & Noble,10
+company,BB&T,10
+company,BE Aerospace,10
+company,Beacon Roofing,10
+company,Belk,10
+company,Bloomin,10
+company,Boyd Gaming,10
+company,Broadcom,10
+company,Brookdale Senior Living,10
+company,Brown-Forman,10
+company,BWX Technologies,10
+company,CarMax,10
+company,Carter,10
+company,CBRE,10
+company,CBS,10
+company,Centene Corporation,10
+company,CH2M HILL,10
+company,Clorox,10
+company,Columbia Sportswear,10
+company,Coty,10
+company,Cracker Barrel Old Country Store,10
+company,CSX,10
+company,Darden Restaurants,10
+company,Dollar General,10
+company,Dollar Tree,10
+company,DynCorp International,10
+company,ETrade Financial,10
+company,Eastman Chemical,10
+company,Edwards Lifesciences Corporation,10
+company,Equinix,10
+company,Exelon Corporation,10
+company,Expeditors International,10
+company,Express Scripts,10
+company,FedEx,10
+company,Fidelity National Financial,10
+company,First Solar,10
+company,Flowers Foods,10
+company,Franklin Templeton,10
+company,General Cable,10
+company,Genesco,10
+company,Granite Construction,10
+company,Graybar Electric Company,10
+company,H&R Block,10
+company,Hanesbrands,10
+company,Hawaiian Airlines,10
+company,HD Supply,10
+company,HealthSouth,10
+company,Hess Corporation,10
+company,Home Depot,10
+company,HSN / Home Shopping Network,10
+company,Hyster-Yale Materials Handling,10
+company,IASIS Healthcare,10
+company,InterActiveCorp,10
+company,J Crew,10
+company,Jabil Circuit,10
+company,Jacobs Engineering,10
+company,Kiewit,10
+company,KKR,10
+company,LabCorp,10
+company,Lam Research,10
+company,Landstar System,10
+company,Las Vegas Sands,10
+company,Levi Strauss,10
+company,Lincoln Financial Group,10
+company,Lithia Motors,10
+company,LPL Financial,10
+company,Markel Corporation,10
+company,Marsh & McLennan,10
+company,MasTec,10
+company,Maxim Integrated Products,10
+company,MDU Resources,10
+company,MEDNAX,10
+company,Mercury General Insurance,10
+company,Meritage Homes,10
+company,Micron Technology,10
+company,Mohawk Industries,10
+company,Molson Coors Brewing,10
+company,Momentive,10
+company,Monster Beverage Corporation,10
+company,Moog,10
+company,Mueller Industries,10
+company,MWI Veterinary Supply,10
+company,NextEra Energy,10
+company,Nu Skin Enterprises,10
+company,NVR,10
+company,Oceaneering International,10
+company,Ocwen Financial Corporation,10
+company,ON Semiconductor,10
+company,Orbital ATK,10
+company,O'Reilly Automotive,10
+company,Owens & Minor,10
+company,Pinnacle Entertainment,10
+company,Pinnacle Foods,10
+company,Protective Life,10
+company,Public Storage,10
+company,Publix Super Markets,10
+company,Puget Sound Energy,10
+company,Quintiles,10
+company,Raymond James Financial,10
+company,Regal Entertainment Group,10
+company,Regions Financial Corporation,10
+company,Reinsurance Group of America,10
+company,Reliance Steel & Aluminum,10
+company,Republic Services,10
+company,Rite Aid,10
+company,Robert Half International,10
+company,Ryder System,10
+company,Safeway,10
+company,Sanmina,10
+company,SCANA Corporation,10
+company,Schnitzer Steel,10
+company,Scripps Networks,10
+company,Seaboard,10
+company,Skechers,10
+company,Sonoco Products,10
+company,Sprouts Farmers Market,10
+company,SunEdison,10
+company,SunPower,10
+company,SunTrust Banks,10
+company,Taylor Morrison,10
+company,TeamHealth,10
+company,Terex Corporation,10
+company,Tetra Tech,10
+company,Thermo Fisher Scientific,10
+company,Trimble Navigation,10
+company,Under Armour,10
+company,Universal American Financial,10
+company,Vantiv,10
+company,Varian Medical Systems,10
+company,Vornado Realty Trust,10
+company,Vulcan Materials,10
+company,WR Grace,10
+company,Werner Enterprises,10
+company,Weyerhaeuser,10
+company,WhiteWave Foods,10
+company,Williams-Sonoma,10
+company,World Fuel Services,10
+company,Wynn Resorts,10
+company,XPO Logistics,10
+company,Xylem,10
+company,Adobe,10
+company,Sempra Energy,10
+company,fisglobal,10
+company,The Sherwin-Williams Company,10
+company,Insight Enterprises Nederland BV,10
+company,Delta Technology,10
+company,Zions Bancorporation,10
+company,Monsanto Company,10
+company,Cerner,10
+company,Cabela's,10
+company,Echostar,10
+company,Chipotle Mexican Grill,10
+company,Black & Veatch,10
+company,Ferrellgas Partners,10
+company,Spirit Aerosystems Holdings,10
+company,"Westar Energy, Inc.",10
+company,Hallmark,10
+company,YRC WorldWide Inc.,10
+company,Ameren Corporation,10
+company,Arch Coal,10
+company,TD Ameritrade,10
+company,ConAgra Foods,10
+company,Arrow Electronics,10
+company,Sungard,10
+company,Iron Mountain,10
+company,Aetna,10
+company,"Broadridge Financial Solutions, Inc.",10
+company,EMC Corporation,10
+company,TJX Companies,10
+company,WR Berkley,10
+company,Travelers Companies,10
+company,NYSE ICE,10
+company,IMS Health,10
+company,Eastman Kodak Company,10
+company,Raytheon Company,10
+company,Biogen Idec Hemophilia Inc.,10
+company,Charter Communications Inc,10
+company,The Hartford,10
+company,Fidelity Investments,10
+company,Towers Watson,10
+company,Xerox,10
+company,Paychex,10
+company,Liberty Mutual,10
+company,Hilton Worldwide,10
+company,M&T Bank,10
+company,Constellation Brands,10
+company,priceline,10
+company,Keurig Green Mountain,10
+company,Amica,10
+company,American Tower Corporation,10
+company,Hologic,10
+company,Boston Scientific,10
+company,FM Global,10
+company,Hanover Insurance Group,10
+company,Eversource,10
+company,Global Partners LP,10
+company,Harman International Industries,10
+company,Alexion Pharmaceuticals,10
+company,PC Connection,10
+company,Praxair,10
+company,PerkinElmer,10
+company,Analog Devices,10
+company,Gartner,10
+company,The Coca-Cola Company,10
+company,"Aaron's, Inc.",10
+company,Oracle,10
+company,Intel,10
+company,AT&T,10
+company,att,10
+company,Microsoft,10
+company,Nike,10
+company,Charles Schwab,10
+company,Amazon,10
+company,DirecTV,10
+company,Rockwell Collins France,10
+company,Oshkosh Truck Corporation,10
+company,Abbott Laboratories,10
+company,United Airlines,10
+company,John Deere,10
+company,US Bank,10
+company,CME Group,10
+company,UnitedHealth Group,10
+company,Groupon,10
+company,Thrivent Financial,10
+company,State Farm Insurance,10
+company,Carlson Companies,10
+company,US Foods,10
+company,General Mills,10
+company,"Menard, Inc.",10
+company,Rockwell Automation,10
+company,Northern Trust,10
+company,Kraft,10
+company,Hyatt,10
+company,Discover Financial Services,10
+company,The Principal Financial Group,10
+company,Roundy's Supermarkets,10
+company,Alliant Energy,10
+company,"Cargill, Incorporated",10
+company,Country Financial,10
+company,HNI Corporation,10
+company,General Growth Properties,10
+company,ZURICH,10
+company,Kohl's Corporation,10
+company,Meijer,10
+company,Target,10
+company,Supervalu,10
+company,A.O. Smith Corporation,10
+company,Archer Daniels Midland,10
+company,C.H. Robinson,10
+company,CDW Corporation,10
+company,CUNA Mutual,10
+company,Essendant,10
+company,Fastenal Company,10
+company,H.B. Fuller,10
+company,Harley Davidson,10
+company,Hub Group,10
+company,Johnson Controls,10
+company,Joy Global,10
+company,Kemper Corporation,10
+company,Land O'Lakes,10
+company,Manitowoc Company,10
+company,McDonald's,10
+company,Mead Johnson Nutrition,10
+company,Mondelez International,10
+company,Navistar,10
+company,Packaging Corporation of America,10
+company,Quad/Graphics,10
+company,Regal Beloit,10
+company,Rexnord Holdings,10
+company,Securian Financial Group,10
+company,Sentry Insurance,10
+company,Snap-On Incorporated,10
+company,Telephone and Data Systems,10
+company,Tenneco,10
+company,TreeHouse Foods,10
+company,Walgreens Boots Alliance,10
+company,Xcel Energy,10
+company,Stericycle,10
+company,Cisco,10
+company,Bio-Rad,10
+company,Motorola Solutions Israel,10
+company,SalesForce,10
+company,Latham and Watkins,10
+company,Gilbane,10
+company,SanDisk,10
+company,Boeing,10
+company,Netflix,10
+company,Nordstrom,10
+company,Brocade,10
+company,NetApp,10
+company,Yahoo,10
+company,Avaya,10
+company,Starbucks,10
+company,Trinet Group,10
+company,Caesars Interactive Entertainment,10
+company,Citrix,10
+company,The Standard,10
+company,Outerwall,10
+company,NVIDIA,10
+company,Agilent Technologies,10
+company,Chevron,10
+company,Juniper Networks,10
+company,Alaska Air Group,10
+company,Costco Wholesale Corporation,10
+company,Expedia,10
+company,Science Applications,10
+company,Morgan Stanley,10
+company,Root Group,10
+company,General Motors Corporation,10
+company,"Diebold, Incorporated",10
+company,sas,10
+company,Convergys,10
+company,YP,10
+company,L Brands,10
+company,Ford Motor Company,10
+company,Fiserv,10
+company,Macy's Inc.,10
+company,Dow Chemical Company,10
+company,Lincoln Electric Holdings,10
+company,Cardinal Health,10
+company,Owens Corning,10
+company,The Goodyear Tire & Rubber Company,10
+company,Consumers Energy,10
+company,Progressive Insurance,10
+company,NiSource,10
+company,Koch Industries,10
+company,"Payless Shoesource, Inc.",10
+company,Bass Pro Shops,10
+company,Amway,10
+company,Abercrombie & Fitch,10
+company,A&F,10
+company,Aleris International,10
+company,Allison Transmission,10
+company,American Electric Power,10
+company,Berry Plastics,10
+company,Big Lots,10
+company,BorgWarner,10
+company,Calumet Specialty Products,10
+company,Cincinnati Financial,10
+company,Cliffs Natural Resources,10
+company,CNO Financial,10
+company,Cooper Standard Automotive,10
+company,Dana Holding Corporation,10
+company,Diplomat,10
+company,DTE Energy Company,10
+company,Fifth Third,10
+company,FirstEnergy,10
+company,Greif,10
+company,hhgregg,10
+company,Huntington Bank,10
+company,KeyCorp,10
+company,Marathon Petroleum Corporation,10
+company,Medical Mutual of Ohio,10
+company,Meritor,10
+company,Procter & Gamble,10
+company,Simon Property Group,10
+company,SpartanNash,10
+company,Springleaf Finance,10
+company,Steel Dynamics,10
+company,Stryker,10
+company,Teradata,10
+company,Timken Company,10
+company,TRW Automotive,10
+company,Universal Forest Products,10
+company,Vectren,10
+company,Visteon Corporation,10
+company,Wendy's Company,10
+company,Western & Southern Financial Group,10
+company,Whirlpool Corporation,10
+company,Wolverine World Wide,10
+company,Worthington Industries,10
+company,Zimmer Biomet,10
+company,Honeywell International Inc.,10
+company,Quest Diagnostics Incorporated,10
+company,Wyndham Worldwide,10
+company,"Sheetz, Inc",10
+company,Penske Truck Leasing,10
+company,Crown Castle,10
+company,Cognizant Technology Solutions,10
+company,Merck & Co,10
+company,PSEG,10
+company,American Eagle Outfitters,10
+company,Bed Bath & Beyond,10
+company,Heartland Payment Systems,10
+company,US Steel,10
+company,CIT Group,10
+company,Pep Boys,10
+company,VWR International,10
+company,Toll Brothers,10
+company,Urban Outfitters,10
+company,Penn Mutual Life Insurance,10
+company,"Becton, Dickinson and Company",10
+company,Campbell Soup,10
+company,Bon-Ton Stores,10
+company,Carpenter Technology,10
+company,Burlington Coat Factory,10
+company,Hovnanian Enterprises,10
+company,Dick's Sporting Goods,10
+company,Chemtura,10
+company,Armstrong World Industries,10
+company,EnerSys,10
+company,DENTSPLY International,10
+company,EQT Corporation,10
+company,Party City,10
+company,PBF Energy,10
+company,PNC Financial Services Group,10
+company,Realogy,10
+company,Selective Insurance,10
+company,Triumph Group,10
+company,UGI Utilities,10
+company,United Refining Company,10
+company,Universal Health Services,10
+company,Weis Markets,10
+company,Ascena Retail Group,10
+company,Tampa Electric,10
+company,Tech Data Corporation,10
+company,140 TSYS,10
+company,Equifax,10
+company,AFLAC Incorporated.,10
+company,PricewaterhouseCoopers LLP USA,10
+company,McKinsey,10
+company,Harris Corporation,10
+company,Assurant,10
+company,VF Corporation,10
+company,Office Depot,10
+company,Newell Rubbermaid Inc.,10
+company,Arris,10
+company,Watsco,10
+company,Well Care,10
+company,Kennametal,10
+company,CommScope,10
+company,PulteGroup,10
+company,Intuit,10
+company,Synopsys,10
+company,Electronic Arts (EA),10
+company,Avnet Technology Solutions - NL,10
+company,Capital Group,10
+company,Wells Fargo,10
+company,McKesson Corporation,10
+company,Symantec,10
+company,PetSmart,10
+company,Facebook,10
+company,"Ingram Micro, Inc.",10
+company,GAP,10
+company,Live Nation,10
+company,Hewlett Packard,10
+company,Qualcomm,10
+company,Mattel,10
+company,Disney,10
+company,CyberSource/Visa,10
+company,Tesla,10
+company,Western Digital,10
+company,Freeport-McMoRan Inc.,10
+company,American Express,10
+company,Smart & Final Inc.,10
+company,Molina Healthcare,10
+company,Avery Dennison,10
+company,PG&E,10
+company,Google,10
+company,Edward Jones,10
+company,Martin Marietta Materials,10
+company,JR Simplot Company,10
+company,IGT International Gaming Technology,10
+company,Lexmark Intl. Inc,10
+company,ASRC Federal,10
+company,Tractor Supply Company,10
+company,Bank of America,10
+company,Time Warner Cable,10
+company,Ingram Content Group,10
+company,TIAA CREF,10
+company,Hospital Corporation of America-HCA Healthcare,10
+company,SYNNEX,10
+company,SHI International Corp.,10
+company,Verizon Communications,10
+company,IBM,10
+company,"Estee Lauder Companies, Inc.",10
+company,Nasdaq,10
+company,"Citigroup Technology, Inc.",10
+company,Cablevision Systems Corporation,10
+company,systemax,10
+company,First Data,10
+company,Time Warner Inc.,10
+company,Ralph Lauren Corporation,10
+company,Pfizer,10
+company,"Nbty, Inc.",10
+company,News Corporation,10
+company,PepsiCo,10
+company,CA Technologies,10
+company,Tiffany & Company,10
+company,"JPMorgan Chase Bank, N.A.",10
+company,BNY Mellon India,10
+company,Bloomberg LP,10
+company,Johnson & Johnson,10
+company,JetBlue Airways,10
+company,"ADP, Inc",10
+company,Guardian Life Insurance,10
+company,Henry Schein,10
+company,"McGraw-Hill Education, LLC",10
+company,Blackrock,10
+company,MetLife Inc.,10
+company,blackstone Group,10
+company,Moody's Corporation,10
+company,Colgate-Palmolive,10
+company,AMC Networks,10
+company,Ally Financial Services,10
+company,Take-Two Interactive Software,10
+company,G-III,10
+company,Phillips-Van Heusen,10
+company,Voya Financial,10
+company,NCR UK,10
+company,Pramerica Systems Ireland,10
+company,L-3 TRL Technology,10
+company,Eli Lilly and Company,10
+company,CSC India,10
+company,RR Donnelley,10
+company,Starwood Hotels and Resorts,10
+company,AMETEK Inc,10
+company,Dominion Resources,10
+company,Booz Allen Hamilton,10
+company,Marriott,10
+company,General Electric Company,10
+company,Northrop Grumman,10
+company,CACI International Inc,10
+company,Norfolk Southern Corp,10
+company,Leidos (Formerly SAIC),10
+company,Capital One Corporation,10
+company,Legg Mason,10
+company,NewMarket Corporation,10
+company,Genworth Financial - USMI,10
+company,T Rowe Price,10
+company,Altria,10
+company,Windstream,10
+company,ConocoPhillips,10
+company,Commercial Metals Company,10
+company,USAA,10
+company,Nationstar Mortgage LLC,10
+company,Wal-Mart,10
+company,Walmart,10
+company,Texas Instruments,10
+company,CenturyLink,10
+company,"Energy Transfer Partners, L.P.",10
+company,Dean Foods Company,10
+company,Kimberly-Clark,10
+company,Noble Energy Inc,10
+company,Fossil,10
+company,Whole Foods Market,10
+company,ExxonMobil,10
+company,National Oilwell Varco,10
+company,Insperity,10
+company,Buckeye Partners,10
+company,Comerica Bank,10
+company,Atmos Energy,10
+company,Sysco,10
+company,Alliance Data,10
+company,Anadarko Petroleum,10
+company,ArcBest Corporation,10
+company,Benchmark Electronics,10
+company,Brink's,10
+company,Celanese,10
+company,CenterPoint Energy,10
+company,D.R. Horton,10
+company,Darling Ingredients,10
+company,Denbury Resources,10
+company,Dillard's,10
+company,Dr Pepper Snapple Group,10
+company,Energy Future Holdings,10
+company,Entergy,10
+company,Enterprise Products Partners,10
+company,EOG Resources,10
+company,Exterran Holdings,10
+company,Genesis Energy,10
+company,Halliburton,10
+company,Huntsman Corporation,10
+company,iHeartMedia,10
+company,Kinder Morgan,10
+company,Marathon Oil,10
+company,Michaels Stores,10
+company,MRC Global,10
+company,Murphy Oil,10
+company,Neiman Marcus,10
+company,Nexeo Solutions,10
+company,NGL Energy Partner,10
+company,NuStar Energy,10
+company,Occidental Petroleum,10
+company,OG&E,10
+company,Oil States International,10
+company,ONEOK,10
+company,Pioneer Natural Resources,10
+company,Pool Corporation,10
+company,Quanta Services,10
+company,RadioShack,10
+company,Rush Enterprises,10
+company,Sally Beauty Holdings,10
+company,Southwest Airlines,10
+company,Southwestern Energy,10
+company,Spectra Energy,10
+company,Targa Resources,10
+company,Tenet Health,10
+company,Tesoro Corporation,10
+company,Torchmark,10
+company,Trinity Industries,10
+company,Tyson Foods,10
+company,Waste Connections,10
+company,CH2M,10
+company,Autodesk Inc,10
+company,Pepsi,10
+company,Xerox ,10
+company,Penske ,10
+company,Norfolk Southern ,10
+company,First Data ,10
+company,Charter Communications,10
+company,ARRIS Group,10
+company,Intercontinental Exchange,10
+company,Tiffany & Co.,10
+company,Broadridge Financial,10
+company,NewMarket ,10
+company,TIAA-CREF,10
+company,Macy's,10
+company,Corning Incorporated,10
+company,Stanley Black & Decker,10
+company,Resolute Forest Products,10
+company,Booz Allen Hamilton Holding,10
+company,Arthur J. Gallagher,10
+company,Hasbro,10
+company,Walmart,10
+company,Apple,10
+company,General Motors,10
+company,Phillips 66,10
+company,General Electric,10
+company,CVS,10
+company,McKesson,10
+company,ATT,10
+company,Valero Energy,10
+company,Verizon,10
+company,AmerisourceBergen,10
+company,Fannie Mae,10
+company,Costco Wholesale,10
+company,Hewlett-Packard,10
+company,Kroger,10
+company,JPMorgan Chase,10
+company,Marathon Petroleum ,10
+company,Citigroup,10
+company,Amazon.com,10
+company,Anthem,10
+company,MetLife,10
+company,Freddie Mac,10
+company,Comcast,10
+company,United Technologies,10
+company,AIG,10
+company,UPS,10
+company,Lowe's Companies,10
+company,Energy Transfer,10
+company,Caterpillar,10
+company,Prudential,10
+company,Walt Disney,10
+company,Humana,10
+company,Cisco Systems,10
+company,Ingram Micro,10
+company,Coca-Cola Company,10
+company,Lockheed Martin,10
+company,Plains All American Pipeline,10
+company,CHS,10
+company,American Airlines,10
+company,Merck & Co.,10
+company,Best Buy,10
+company,Delta Air Lines,10
+company,Honeywell,10
+company,Tesoro ,10
+company,United Continental Holdings,10
+company,New York Life,10
+company,HCA,10
+company,Nationwide,10
+company,John Deere & Company,10
+company,DuPont,10
+company,Allstate,10
+company,Cigna,10
+company,INTL FCStone,10
+company,MassMutual,10
+company,21st Century Fox,10
+company,3M,10
+company,Sears Holdings,10
+company,Philip Morris International,10
+company,Time Warner,10
+company,Tech Data,10
+company,Avnet,10
+company,Northwestern Mutual Life Insurance,10
+company,Exelon ,10
+company,International Paper,10
+company,Duke Energy,10
+company,Gilead Sciences,10
+company,Baker Hughes,10
+company,Emerson Electric,10
+company,EMC ,10
+company,Union Pacific,10
+company,Alcoa,10
+company,Capital One Financial,10
+company,Aflac,10
+company,Staples,10
+company,Community Health Systems,10
+company,Fluor ,10
+company,Freeport-McMoRan Copper & Gold,10
+company,US Bancorp,10
+company,Nucor,10
+company,Kimberly-Clark ,10
+company,Hess ,10
+company,Chesapeake Energy,10
+company,ManpowerGroup,10
+company,AbbVie,10
+company,Whirlpool ,10
+company,HollyFrontier ,10
+company,Eli Lilly,10
+company,Devon Energy,10
+company,Cummins,10
+company,Icahn Enterprises,10
+company,Kohl's ,10
+company,PACCAR,10
+company,Southern Company,10
+company,The Kraft Heinz Company,10
+company,Goodyear Tire & Rubber,10
+company,eBay,10
+company,Lear ,10
+company,AES ,10
+company,Baxter International,10
+company,Centene ,10
+company,BNY Mellon,10
+company,Bristol-Myers Squibb,10
+company,NRG Energy,10
+company,Monsanto,10
+company,PPG Industries,10
+company,Genuine Parts,10
+company,Omnicom Group,10
+company,Illinois Tool Works,10
+company,Murphy USA,10
+company,Western Refining,10
+company,WestRock,10
+company,ARAMARK,10
+company,Dish Network,10
+company,Kellogg Company,10
+company,Loews,10
+company,CBS ,10
+company,Ecolab,10
+company,Chubb,10
+company,Health Net,10
+company,Waste Management,10
+company,Apache ,10
+company,Textron,10
+company,Viacom,10
+company,Edison International,10
+company,Yum Brands,10
+company,Computer Sciences ,10
+company,Parker Hannifin,10
+company,WellCare Health Plans,10
+company,Consolidated Edison Company,10
+company,DaVita,10
+company,Visa,10
+company,CSX ,10
+company,Toys R Us,10
+company,Ameriprise,10
+company,VF ,10
+company,JCPenney,10
+company,ADP,10
+company,L-3 Communications,10
+company,CDW ,10
+company,PPL,10
+company,Huntsman ,10
+company,Farmers Insurance,10
+company,Sherwin-Williams,10
+company,Ross Stores,10
+company,Estee Lauder,10
+company,Public Service Enterprise Group,10
+company,Cameron International,10
+company,CST Brands,10
+company,State Street,10
+company,Unum Group,10
+company,Principal Financial Group,10
+company,Air Products & Chemicals,10
+company,Liberty Global,10
+company,MGM Resorts International,10
+company,W.W. Grainger,10
+company,Group 1 Automotive,10
+company,AGCO ,10
+company,Biogen,10
+company,Precision Castparts,10
+company,Genworth Financial,10
+company,Dean Foods,10
+company,MasterCard,10
+company,Hormel Foods,10
+company,GameStop,10
+company,Autoliv,10
+company,Sonic Automotive,10
+company,Crown Holdings,10
+company,Mosaic Company,10
+company,CBRE Group,10
+company,Avon Products,10
+company,Caesars Entertainment,10
+company,Ball ,10
+company,Masco ,10
+company,Avis,10
+company,Reynolds American,10
+company,AECOM,10
+company,Visteon ,10
+company,Dover ,10
+company,Jarden,10
+company,Core-Mark International,10
+company,Calpine,10
+company,FMC Technologies,10
+company,American Family Insurance,10
+company,Wesco International,10
+company,Motorola Solutions,10
+company,Lennar,10
+company,TravelCenters of America,10
+company,Sealed Air,10
+company,Coca-Cola Enterprises,10
+company,Celgene,10
+company,Williams Companies,10
+company,Ashland,10
+company,Interpublic Group of Companies,10
+company,Blackstone Group,10
+company,Ralph Lauren ,10
+company,Quest Diagnostics Clinical Laboratories,10
+company,Hershey Company,10
+company,Terex ,10
+company,Newmont Mining,10
+company,Casey's General Stores,10
+company,CMS Energy,10
+company,Foot Locker,10
+company,W. R. Berkley,10
+company,Pacific Life Insurance,10
+company,Commercial Metals,10
+company,Newport News Shipbuilding,10
+company,Mutual of Omaha,10
+company,Live Nation Entertainment,10
+company,Oshkosh ,10
+company,United Natural Foods,10
+company,Peabody Energy ,10
+company,Owens-Illinois,10
+company,Level 3 Communications,10
+company,LKQ ,10
+company,WEC Energy Group,10
+company,Dana Holding ,10
+company,NCR,10
+company,Omnicare,10
+company,AK Steel Holding,10
+company,Cablevision Systems,10
+company,Anixter,10
+company,EMCOR Group,10
+company,FIS,10
+company,KBR,10
+company,Auto Owners Insurance,10
+company,Discovery Communications,10
+company,J.B. Hunt Transport,10
+company,Erie Indemnity,10
+company,Ameren ,10
+company,Gannett,10
+company,IGT,10
+company,Starwood Hotels,10
+company,Packaging  of America,10
+company,Windstream Communications,10
+company,Newell Rubbermaid,10
+company,American Financial Group,10
+company,United Rentals,10
+company,Ingredion,10
+company,Navient,10
+company,St. Jude Medical,10
+company,J.M. Smucker Company,10
+company,Western Union,10
+company,Domtar,10
+company,Kelly Services,10
+company,Old Republic International,10
+company,Advanced Micro Devices,10
+company,Jones Lang LaSalle,10
+company,Regions Financial ,10
+company,Salesforce.com,10
+company,Amphenol,10
+company,Kindred Healthcare,10
+company,Insight Enterprises,10
+company,LifePoint Hospitals,10
+company,McGraw-Hill Financial,10
+company,Northern Tier Energy,10
+company,Markel ,10
+company,Noble Energy,10
+company,Leidos,10
+company,Airgas,10
+company,Rockwell Collins,10
+company,YRC Worldwide,10
+company,ITG Brands,10
+company,ABM,10
+company,Harris ,10
+company,LINN Energy,10
+company,SCANA ,10
+company,Flowserve,10
+company,Pepco Holdings,10
+company,Bemis Company,10
+company,Coach,10
+company,Continental Resources,10
+company,Frontier Communications,10
+company,Levi Strauss & Co.,10
+company,CF Industries,10
+company,M&T Bank ,10
+company,Superior Energy,10
+company,First American Title,10
+company,Colfax ,10
+company,Yahoo!,10
+company,Axiall ,10
+company,Cintas,10
+company,The Andersons,10
+company,Valspar,10
+company,Tutor Perini,10
+company,Polaris Industries,10
+company,Bloomin' Brands,10
+company,Hyatt Hotels ,10
+company,Westlake Chemical,10
+company,Envision Healthcare,10
+company,Fortune Brands,10
+company,RPM International,10
+company,Swift Transportation,10
+company,Alpha Natural Resources,10
+company,McCormick & Company,10
+company,Graphic Packaging,10
+company,Allegheny Technologies Incorporated,10
+company,Adobe Systems,10
+company,American Tower ,10
+company,FMC,10
+company,Brunswick ,10
+company,Patterson Companies,10
+company,AMETEK,10
+company,Leggett & Platt,10
+company,Crestwood,10
+company,Silgan Holdings,10
+company,SAIC,10
+company,The Carlyle Group,10
+company,WPX Energy,10
+company,Pitney Bowes,10
+company,Ingles Markets,10
+company,PolyOne,10
+company,Unified Grocers,10
+company,Magellan Health,10
+company,CONSOL Energy,10
+company,NII Holdings,10
+company,USG,10
+company,Helmerich & Payne,10
+company,Lexmark International,10
+company,American Axle & Manufacturing,10
+company,Cabot ,10
+company,Cabela's,10
+company,Ryerson,10
+company,Thor Industries,10
+company,Graham Holdings Company,10
+company,Electronic Arts,10
+company,Boise Cascade Company,10
+company,CACI International,10
+company,Smart and Final,10
+company,Nasdaq OMX Group,10
+company,Cooper Tire & Rubber,10
+company,ADT,10
+company,Cerner ,10
+company,Clean Harbors,10
+company,Lennox International,10
+company,Hubbell,10
+company,Unisys,10
+company,Moody's,10
+company,CR Bard,10
+company,Church & Dwight,10
+company,Men's Wearhouse,10
+company,ULTA Salon,10
+company,Hawaiian Electric Company,10
+company,SkyWest,10
+company,NBTY,10
+company,Carlisle Companies,10
+company,Tesla Motors,10
+company,Patterson-UTI Energy,10
+company,Rent-A-Center,10
+company,Valmont Industries,10
+company,Chiquita Brands,10
+company,International Flavors & Fragrances,10
+company,Whiting Petroleum ,10
+company,Select Medical ,10
+company,American National Insurance Company,10
+company,Diebold,10
+company,Warner Music Group,10
+company,American Water Works,10
+company,TECO Energy,10
+company,Brinker International,10
+company,Service  International,10
+company,Tempur Sealy International,10
+company,Steelcase,10
+company,Sabre Holdings,10
+company,KLA-Tencor,10
+company,Crane Co,10
+company,Tribune Media,10
+company,ScanSource,10
+company,Univision Communications,10
+company,Carter's,10
+company,Scotts Miracle-Gro,10
+company,Exide Technologies,10
+company,Wabco North America,10
+company,AMERCO,10
+company,Regeneron Pharmaceuticals,10
+company,Lincoln Electric Company,10
+company,Dresser-Rand Group,10
+company,West ,10
+company,Old Dominion Freight Line,10
+company,MSC Industrial,10
+company,Sigma-Aldrich,10
+company,Washington Gas,10
+company,Sanderson Farms,10
+company,StanCorp Financial Group,10
+company,DST Systems,10
+company,Aaron's,10
+company,Chico's FAS,10
+company,Concho,10
+company,ITT,10
+company,HCC Insurance,10
+company,Cinemark Holdings,10
+company,Equity Residential,10
+company,ArcBest ,10
+company,GNC,10
+company,Curtiss Wright ,10
+company,Tupperware Brands,10
+company,Westar Energy,10
+company,Albemarle,10
+company,Edgewell,10
+company,AptarGroup,10
+company,Penn National Gaming,10
+company,Alere,10
+company,Kansas City Southern,10
+company,Kansas City Power & Light,10
+company,Kirby ,10
+company,Global Payments,10
+company,Nortek,10
+company,Universal ,10
+company,Panera Bread,10
+company,AOL,10
+company,PriceSmart,10
+company,Autodesk,10
+company,Affiliated Managers Group,10
+company,TOPS Markets,10
+company,Dynegy,10
+company,DSW,10
+company,Vishay Intertechnology,10
+company,Mettler Toledo International,10
+company,Donaldson Company,10
+company,EQT ,10
+company,Monster Beverage ,10
+company,ServiceMaster,10
+company,TSYS,10
+company,Applied Industrial,10
+company,A Schulman,10
+company,CalAtlantic,10
+company,Guess,10
+company,KB Home,10
+company,Teledyne Technologies,10
+company,Xilinx,10
+company,Newfield Exploration,10
+company,Plexus,10
+company,KAR Auction Services,10
+company,Zions Ban,10
+company,A.O. Smith ,10
+company,Sears Hometown and Outlet Stores,10
+company,Alliance One,10
+company,RPC,10
+company,Edwards Lifesciences ,10
+company,Belden,10
+company,Magellan Midstream Partners,10
+company,KapStone Paper and Packaging,10
+company,Skyworks Solutions,10
+company,Ciena,10
+company,Education Management ,10
+company,Parexel International,10
+company,Stifel,10
+company,Pool ,10
+company,Olin ,10
+company,IHS,10
+company,HNI ,10
+company,Greenbrier Companies,10
+company,Kemper ,10
+company,Ocwen Financial ,10
+company,Symetra Financial,10
+company,Tower International,10
+company,MarkWest Energy Partners,10
+company,Bio-Rad Laboratories,10
+company,TrueBlue,10
+company,Toro Company,10
+company,Express,10
+company,Eastman Kodak,10
+company,Hain Celestial Group,10
+company,IDEX,10
+company,Popular,10
+company,Esterline Technologies,10
+company,Intuitive Surgical,10
+company,SemGroup,10
+company,Southwest Gas ,10
+company,National Fuel,10
+company,Primoris Services ,10
+company,Harsco ,10
+company,Willbros,10
+company,AAR Corp,10
+company,ETrade Financial,10
+company,SPX,10
+company,Westinghouse Electric Company,10
+company,Metaldyne,10
+company,Post,10
+company,Mapco Express,10
+company,Aetos,10
+company,ANZ,10
+company,Bank of America Merrill Lynch,10
+company,Breadtalk Group,10
+company,CapitaLand,10
+company,Certis Cisco Security,10
+company,Changi Airport Group ,10
+company,Citibank,10
+company,CPG Corporation,10
+company,Dairy Farm International,10
+company,DBS,10
+company,Deloitte,10
+company,Deutsche Bank,10
+company,DHL,10
+company,Dnata,10
+company,"DTZ Singapore, a company of UGL",10
+company,Emerson Process Management Asia Pacific,10
+company,Ernst & Young,10
+company,ExxonMobil,10
+company,Far East Organization,10
+company,Flextronics,10
+company,General Electric,10
+company,Global Foundries,10
+company,Hewlett-Packard,10
+company,Hitachi Asia,10
+company,Hong Leong Group,10
+company,HSBC,10
+company,Infineon Technologies,10
+company,InterContinental Hotels Group,10
+company,ISS Facility Services,10
+company,Kentucky Fried Chicken,10
+company,Keppel Corporation,10
+company,KPMG,10
+company,Marina Bay Sands,10
+company,Maybank,10
+company,McDonald's,10
+company,MediaCorp,10
+company,Micron Semiconductor,10
+company,Millennium & Copthorne Hotels,10
+company,NatSteel Holdings,10
+company,NTUC Fairprice,10
+company,OCBC,10
+company,Pan Pacific Hotels Group,10
+company,Panasonic,10
+company,Philips,10
+company,PricewaterhouseCoopers,10
+company,Procter & Gamble,10
+company,PSA International,10
+company,RC Hotels ,10
+company,Resorts World Sentosa,10
+company,Rotary Engineering,10
+company,SATS,10
+company,Seagate,10
+company,Sembcorp,10
+company,Shell,10
+company,Sheng Siong,10
+company,Showa Denko HD Singapore,10
+company,Siemens,10
+company,Singapore Airlines,10
+company,Singapore Post,10
+company,Singapore Press Holdings,10
+company,Singtel,10
+company,Sony,10
+company,ST Engineering,10
+company,ST Telemedia,10
+company,Standard Chartered Bank,10
+company,STATS ChipPAC,10
+company,UBS AG,10
+company,UOB,10
+company,UTAC,10
+company,Yongnam Engineering & Construction,10
+company,Toyota Motor,10
+company,Canon,10
+company,Samsung Electronics,10
+company,Sony,10
+company,Honda Motor,10
+company,Singapore Airlines,10
+company,Panasonic,10
+company,Huawei,10
+company,China Mobile Communications,10
+company,LG Electronics,10
+company,Cathay Pacific Airways,10
+company,BHP Billiton,10
+company,Lenovo Group,10
+company,Hyundai Motor,10
+company,POSCO,10
+company,Komatsu,10
+company,Tata Steel,10
+company,Bridgestone,10
+company,Sharp,10
+company,Taiwan Semiconductor,10
+company,Mitsubishi,10
+company,Softbank,10
+company,Fujitsu,10
+company,Ajinomoto,10
+company,Baosteel,10
+company,Kirin,10
+company,Mitsubishi Electric,10
+company,Toshiba,10
+company,China Telecommunications,10
+company,Mitsubishi Chemical,10
+company,All Nippon Airways,10
+company,Tokio Marine Holdings,10
+company,Nippon Steel,10
+company,Sumitomo Mitsui Financial Group,10
+company,Hyundai Heavy Industries,10
+company,Nissan Motor,10
+company,Acer,10
+company,Cathay Life Insurance,10
+company,China Minmetals,10
+company,Hitachi,10
+company,Asahi Breweries,10
+company,China National Petroleum,10
+company,Flextronics International,10
+company,Hon Hai Precision Industry,10
+company,Kao,10
+company,KDDI,10
+company,Denso,10
+company,Japan Tobacco,10
+company,Koç Holding,10
+company,NEC,10
+company,Nippon Telegraph & Telephone,10
+company,Petronas,10
+company,Sumitomo Chemical,10
+email,koh_jun_kiat@quannsecurity.com,15
+email,kwek_meow_hui@quannsecurity.com,15
+email,e@quann.com,15
+email,myusuffmarican@kpmg.com.sg,15
+email,goh_nai_sun_richard@defence.gov.sg,15
+email,rlvillanueva@pldt.com.ph,15
+email,zach.zw.foo@sg.pwc.com,15
+email,tan_yong_seng@pmo.gov.il,15
+email,finance@darkmatter.ae,15
+email,buyannemekh.d@tdbm.mn,15
+email,m.gunasekaran@prowareness.nl,15
+email,prianshu.khandwala@tatamotors.com,15
+email,sagar@sonimtech.com,15
+email,sri.s@lucideustech.com,15
+email,hidetoshi.satomi@ctc-g.co.jp,15
+email,sudiyuwono@xecureit.id,15
+email,hongji.xie@binqsoft.com,15
+email,shivkumar.pandey@bseindia.com,15
+email,max_dermann@bnz.co.nz,15
+email,devdatta.chandgadkar@sil.co.in,15
+email,anisetti@esflabs.com,15
+email,rajendra.bhalerao@npci.org.in,15
+email,sharad_shukla@manulife.com,15
+email,moshe.lerner@checkmarx.com,15
+email,dgrace@shearwater.com.au,15
+email,nilkanth.patil@aujas.com,15
+email,jaykishan.nirmal@aujas.com,15
+email,bhagya.g.perera@sg.pwc.com,15
+email,thant.soe.myo@sg.pwc.com,15
+email,yi.cheng.pua@sg.pwc.com,15
+email,christine.buntat@sg.pwc.com,15
+email,yew.kang.tan@sg.pwc.com,15
+email,sjinugu@deloitte.com,15
+email,agarkel@deloitte.com,15
+email,agupta94@sapient.com,15
+email,apatil3@sapient.com,15
+email,endre.bihari@kmart.com.au,15
+email,marek@itsecasia.com,15
+email,accountspayable@realestate.com.au,15
+email,pradeep@bizcarta.io,15
+email,ssmcdlwesee-navy@nic.in,15
+email,tusnin.das@timesinternet.in,15
+email,sarfuddinali.ahmed@indiatimes.co.in,15
+email,nic.hancock@news.com.au,15
+email,mheda@deloitte.com,15
+email,fsaeed@techarch.com.sa,15
+email,pmorris@cuscal.com.au,15
+email,rspear@cuscal.com.au,15
+email,vinay.aggarwal@au.fujitsu.com,15
+email,lance.hobson@au.fujitsu.com,15
+email,sit.purchasing@sonichealthcare.com.au,15
+email,morgan.storey@sonichealthcare.com.au,15
+email,shabber.khan@tcs.com,15
+email,mannan.godil@edelcap.com,15
+email,dpepper@adobe.com,15
+email,prevost@adobe.com,15
+email,puskar.sarkar@wipro.com,15
+email,raja.man@wipro.com,15
+email,csld@wipro.com,15
+email,allamvinodh.kumar@wipro.com,15
+email,josey.george@wipro.com,15
+email,velumani.angappan@cognizant.com,15
+email,vasanthprasath.r@cognizant.com,15
+email,ashish.chatterji@cognizant.com,15
+email,rakesh.balasunder@cognizant.com,15
+email,babu.arumugam@cognizant.com,15
+email,srilakshmi.s@cognizant.com,15
+email,sudipta.deb@cognizant.com,15
+email,layne@apigee.com,15
+email,dan_boucaut@bridgepoint.com.au,15
+email,michael.trott@optus.com.au,15
+email,edwina.tan@e-cop.net,15
+email,edwinasc_tan@quannsecurity.com,15
+email,manoj.rai@happiestminds.com,15
+email,satya.nm@247-inc.com,15
+email,rahul.subramaniam@devfactory.com,15
+email,billing@cxrus.com,15
+email,scott.fletcher@auspost.com.au,15
+email,smore@hostanalytics.com,15
+email,kumar.d99@wipro.com,15
+email,suhas.desai@in.pwc.com,15
+email,rahul2.aggarwal@in.pwc.com,15
+email,santoshi.kittur@insdc01.pwc.com,15
+email,ekkorn.ra@acisonline.net,15
+email,davidchan@dmxtechnologies.com,15
+email,andy@quantiqint.com,15
+email,charleschew@pulsesecure.com,15
+email,anthony.velarde@edenred.com,15
+email,gopal.gupta@mahindracomviva.com,15
+email,manan.taneja@mahindracomviva.com,15
+email,kunwarjeet_panesar@persistent.co.in,15
+email,rajeshkumar.d@in.ey.com,15
+email,enkhbayar.s@grapecity.mn,15
+email,bharat.runiwal@pb.com,15
+email,rjs@handshake.hk,15
+email,partner@cisecurity.hk,15
+email,pdanhieux@gmail.com,15
+email,rajendra.mallah@tcs.com,15
+email,rakesh.laad@tcs.com,15
+email,meghashyam.n@itcinfotech.com,15
+email,jin.x.han@accenture.com,15
+email,sanjay@login2it.com,15
+email,kamran.alvi@accenture.com,15
+email,suchitra.krishnagiri@accenture.com,15
+email,richard.m.bukowczyk@accenture.com,15
+email,jagadish.nayak@accenture.com,15
+email,anthony.reinert@accenture.com,15
+email,pradeep.k.banavara@accenture.com,15
+email,love.wadhwa@accenture.com,15
+email,ap_aus@atlassian.com,15
+email,cheewah@clearbridge-infosec.com,15
+email,cuong.k.pham@itas.vn,15
+email,lakshmi_nk01@infosys.com,15
+email,sushma_v@infosys.com,15
+email,sachidananda_javli@infosys.com,15
+email,karthikandhiyur_n@infosys.com,15
+email,accounts.payable@nzpost.co.nz,15
+email,danny.tan@ace-pacific.com.sg,15
+email,odedbrilon@gmail.com,15
+email,saeed.ahmed@ext.icicibank.com,15
+email,jessicachan@dmxtechnologies.com,15
+email,d.fragale@abs.gov.au,15
+email,nang.tip@abs.gov.au,15
+email,paul.stott@abs.gov.au,15
+email,manish.joshi@accelyakale.com,15
+email,invoicing@snapdeal.com,15
+email,shivendra.saxena@snapdeal.com,15
+email,richard.farrell@anz.com,15
+email,khcheng@deloitte.com.hk,15
+email,stephen.breen@paddypower.com,15
+email,simon.brommeyer@sportsbet.com.au,15
+email,ricci@ewalker.com.hk,15
+email,charu.verma@goindigo.in,15
+email,sampath.c.katargadda@rrd.com,15
+email,ramachandran.narasimhan@rrd.com,15
+email,wes@insideview.com,15
+email,ghemanthkumar@steelwedge.com,15
+email,dsubramani@steelwedge.com,15
+email,ajaykumar.r@photoninfotech.net,15
+email,rajesh.vaithianathan@photoninfotech.net,15
+email,ben.dodds@originenergy.com.au,15
+email,elaine.hung@kpmg.com,15
+email,alvin.li@kpmg.com,15
+email,amariajohn2@csc.com,15
+email,ryan.cotterell@asbbank.co.nz,15
+email,michael.wallmannsberger@asb.co.nz,15
+email,sean.mccoll@asb.co.nz,15
+email,rahul.lobo@au.ey.com,15
+email,edmundgoh@kpmg.com.sg,15
+email,tahyrtayyrov@kpmg.com.sg,15
+email,shankar.k@tavant.com,15
+email,mpoon@netdefence.com,15
+email,suresh.shankaran@hdfcbank.com,15
+email,ojgabriel@wesm.ph,15
+email,mvbque@wesm.ph,15
+email,connie.bautista@mgenesis.com.ph,15
+email,kenneth.au@emc.com,15
+email,ivan@tforcetech.com,15
+email,bhuvaneshwara01@edgeverve.com,15
+email,charles.wale@uxcconsulting.com.au,15
+email,kanasit@kpmg.co.th,15
+email,damien.azambourg@ca-cib.com,15
+email,amerchant@controlcase.com,15
+email,srane@controlcase.com,15
+email,sivakumar.subbaraman@servicemax.com,15
+email,keyur.lavingia@team.telstra.com,15
+email,mark.huang@ace-pac.com,15
+email,terry.lim@ace-pac.com,15
+email,koh_keng_hun@ida.gov.sg,15
+email,steven_koh@ida.gov.sg,15
+email,vinod.kumarv@in.bosch.com,15
+email,alok.saurabh@cgi.com,15
+email,poongodi.guruvareddy@cgi.com,15
+email,zahid@in.musafir.com,15
+email,rohit.dhodi@hcentive.com,15
+email,karmendra.kohli@secureyes.net,15
+email,rmuyuela@fastlinkcomputer.com.ph,15
+email,invoice@bankbazaar.com,15
+email,gagandeep.singh@mobikwik.com,15
+email,khalifa.alshamsi@offensivebits.ae,15
+email,skwa@deloitte.com,15
+email,irenelim@systexgroup.com,15
+email,girishr@maricoindia.net,15
+email,gs00346969@techmahindra.com,15
+email,lakshmia@techmahindra.com,15
+email,sonu.jain@techmahindra.com,15
+email,va00471974@techmahindra.com,15
+email,ismail.quadry@techmahindra.com,15
+email,javed.hussain.jaffrey@hsbc.co.in,15
+email,anil@cert-in.org.in,15
+email,pankaj@cert-in.org.in,15
+email,sandeep.sachdeva@presto.co.in,15
+email,kdeshpande@miel.in,15
+email,errol.corrie@melbourneit.com.au,15
+email,chris.polkinghorne@melbourneit.com.au,15
+email,cffong@le-global.com,15
+email,tammie@le-global.com,15
+email,dnaveen@kodiaknetworks.com,15
+email,rameshnaidu@thegoodguys.com.au,15
+email,truongducluong@vsec.com.vn,15
+email,wachara@infosec.co.th,15
+email,whoulden@janison.com,15
+email,datnt@vncs.vn,15
+email,nickm@campaignmonitor.com,15
+email,skbhuyan@mof.gov.ae,15
+email,a.ghosh@encodegroup.com,15
+email,christine.huah@ctc-g.com.sg,15
+email,michelle.lad@ctc-g.com.sg,15
+email,minghui.zhang@sg.pwc.com,15
+email,aik.kiat.chua@sg.pwc.com,15
+email,naveen_a@hcl.com,15
+email,deepti_g@hcl.com,15
+email,goh_nai_sun_richard@defence.gov.sg,15
+email,e@quann.com,15
+email,koh_jun_kiat@quannsecurity.com,15
+email,kwek_meow_hui@quannsecurity.com,15
+email,myusuffmarican@kpmg.com.sg,15
+email,zach.zw.foo@sg.pwc.com,15
+email,tan_yong_seng@pmo.gov.il,15
+email,ved_p@dell.com,15
+email,aasish.mathew@ust-global.com,15
+email,rmishra2@xavient.com,15
+email,neo_lay_cheng@defence.gov.sg,15
+email,sunil.gupta@edelweissfin.com,15
+email,dgm.soc@sbi.co.in,15
+email,hosni.hamdi2009@gmail.com,15
+email,mithunkumar.chopda@capgemini.com,15
+email,martin.littlewood@securepay.com.au,15
+email,ayan.ray@in.unisys.com,15
+email,ddayal@cisco.com,15
+email,arvind.ramanan@one.verizon.com,15

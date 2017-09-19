@@ -1,0 +1,7 @@
+*.css.map
+.idea/*
+dist/*
+node_modules/*
+logs/*
+
+
